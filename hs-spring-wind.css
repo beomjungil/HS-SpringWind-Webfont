@@ -1,11 +1,11 @@
 @font-face {
     font-family: 'HS Spring Wind';
     src: url('https://cdn.rawgit.com/kattergil/HS-SpringWind-Webfont/9fb3f044/hs-spring-wind-2.0-gmms.eot');
-    src: url('https://cdn.rawgit.com/kattergil/HS-SpringWind-Webfont/9fb3f044/hs-spring-wind-2.0-gmms.eot#iefix') format('embedded-opentype'),
+    src: url('https://cdn.jsdelivr.net/gh/kattergil/HS-SpringWind-Webfont@9fb3f044/hs-spring-wind-2.0-gmms.eot#iefix') format('embedded-opentype'),
          url('https://cdn.rawgit.com/kattergil/HS-SpringWind-Webfont/9fb3f044/hs-spring-wind-2.0-gmms.woff2') format('woff2'),
          url('https://cdn.rawgit.com/kattergil/HS-SpringWind-Webfont/9fb3f044/hs-spring-wind-2.0-gmms.woff') format('woff'),
          url('https://cdn.rawgit.com/kattergil/HS-SpringWind-Webfont/9fb3f044/hs-spring-wind-2.0-gmms.ttf') format('truetype'),
-         url('https://cdn.rawgit.com/kattergil/HS-SpringWind-Webfont/9fb3f044/hs-spring-wind-2.0-gmms.svg#hsspringwind') format('svg');
+         url('https://cdn.jsdelivr.net/gh/kattergil/HS-SpringWind-Webfont@9fb3f044/hs-spring-wind-2.0-gmms.svg#hsspringwind') format('svg');
     font-weight: normal;
     font-style: normal;
 
